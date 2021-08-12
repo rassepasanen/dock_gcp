@@ -11,10 +11,8 @@ body {
   }
   .line .lineitem {
       height: inherit !important;
-      border: 1px solid white;
   }
   .line {
       padding: 20px !important;
-      border: 1px solid white;
 
   }
