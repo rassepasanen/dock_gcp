@@ -64,6 +64,7 @@ function App() {
     </div>
     <div style={{border : "1px solid white"}}>
         <Footer/>
+        <p>Here i'll explain something more</p>
     </div>
     </>
     );
