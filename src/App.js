@@ -72,7 +72,3 @@ function App() {
 }
 
 export default App;
-
-13/08/2021 14:45:05	","token_type":"bearer","expires_in":5179445}
-13/08/2021 14:45:05	: 244 date: Fri, 13 Aug 2021 13:45:05 GMT priority: u=3,i alt-svc: h3-29=":443"; ma=3600,h3-27=":443"; ma=3600  {"access_token":"
-13/08/2021 14:45:05	date expires: Sat, 01 Jan 2000 00:00:00 GMT x-fb-request-id: Aa53WEUeMngGskXjzjAWwPA x-fb-trace-id: HThRlmxxFiU x-fb-rev: 1004250627 x-fb-debug: PlPEqKiW+Az0Coc6K9GquaPAUXkdoSXQuMOz3Fkq3Spdmjd9JSxaq2hD8njUe1I6yJVi55jNJ05QdMNGiGo1YQ== content-length
