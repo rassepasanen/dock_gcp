@@ -14,5 +14,8 @@ body {
   }
   .line {
       padding: 20px !important;
-
+  }
+  .header {
+      padding-left: 0;
+      padding-right: 0;
   }
