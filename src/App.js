@@ -1,5 +1,4 @@
 import React, { useState, useRef, useEffect } from 'react';
-import { Link, useStaticQuery, graphql } from 'gatsby';
 import TodoList from "./TodoList";
 import Footer from "./Footer";
 import Header from "./Header";
